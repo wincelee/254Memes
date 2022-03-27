@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">254Memes</string>
+
+    <string name="please_upload_image">Tuchagulie Meme Imeweza Apo Down</string>
+    <string name="choose_image_to_upload">Chagua meme kali</string>
+    <string name="todoImageView">TODO</string>
+    <string name="upload_the_image">Tumia mafans meme</string>
+    <string name="meme_za_mafans">Meme za mafans</string>
+    <string name="tupe_kadescription_ya_meme">Tupe risto ya hii meme</string>
+    <string name="risto_ya_hii_meme_item">Risto ya hii meme</string>
+    <string name="tuweke_memes">Tuweke Memes</string>
+    <string name="cheki_memes">Cheki Memes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo_meme_item">TODO</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+
+    <!-- App ID  == ca-app-pub-6947345366543254~3161860243
+     homeActivityAdUnit ca-app-pub-6947345366543254/1751617795
+     -->
+
+</resources>

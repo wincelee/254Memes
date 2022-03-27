@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ChekiMeme"
+        android:enabled="true"
+        android:title="@string/cheki_memes"
+        android:icon="@drawable/cheki_memes_icon"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/TuwekeMeme"
+        android:enabled="true"
+        android:title="@string/tuweke_memes"
+        android:icon="@drawable/tuweke_memes_icon"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/Privacypolicy"
+        android:enabled="true"
+        android:title="@string/privacy_policy"
+        android:icon="@drawable/privacypolicyicon"
+        app:showAsAction="never"/>
+
+
+</menu>
